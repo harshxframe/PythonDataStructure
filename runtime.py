@@ -1,2 +1,4 @@
 number1 = int(input("Enter a numer: "))
-print(number1)
+number2 = int(input("Enter a second number: "))
+sum = number1 + number2
+print(sum)
